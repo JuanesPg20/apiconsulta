@@ -1,4 +1,4 @@
-<p align="center">API CONSULTA</a></p>
+<h1 align="center">API CONSULTA</a></h1>
 
 ## Acerca de esta API
 
